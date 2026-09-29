@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51310435252",
+    "project_id": "composite-hour-478718-r9",
+    "storage_bucket": "composite-hour-478718-r9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51310435252:android:d68c68c05c5533f095b0e1",
+        "android_client_info": {
+          "package_name": "com.example.nutriguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51310435252-v9d3cpomuo7ifnaerm1ua7me7ouavau1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCifEq_sC37X4nwawmx6lgWsFBUOMmvhLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51310435252-v9d3cpomuo7ifnaerm1ua7me7ouavau1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

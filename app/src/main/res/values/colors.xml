@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Primary: health/nutrition green -->
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <!-- Secondary: warm accent for alerts/highlights -->
+    <color name="secondary">#F9A825</color>
+    <color name="on_secondary">#000000</color>
+
+    <!-- Background & surface -->
+    <color name="background">#F5F7F5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1B1B1B</color>
+
+    <!-- Status colors -->
+    <color name="danger">#C62828</color>
+    <color name="success">#2E7D32</color>
 </resources>

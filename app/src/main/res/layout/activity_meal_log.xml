@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Log a Meal"
+        android:textSize="22sp"
+        android:layout_marginBottom="16dp" />
+
+    <EditText
+        android:id="@+id/etFoodName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Food name" />
+
+    <EditText
+        android:id="@+id/etCalories"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Calories (kcal)"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="12dp" />
+
+    <Button
+        android:id="@+id/btnLogMeal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Meal"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/tvMealHistory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Today's meals will appear here" />
+
+</LinearLayout>
